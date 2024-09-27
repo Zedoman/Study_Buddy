@@ -1,4 +1,5 @@
-# ChatGPT Flask Application
+# <img width="821" alt="Screenshot 2024-09-27 at 23 33 01" src="https://github.com/user-attachments/assets/121fdb57-a908-4a8d-9404-34e9a0e1a7f7">
+Study Buddy
 
 This repository contains a simple Flask web application that interacts with OpenAI's GPT-3.5 API. It provides a chatbot interface that allows users to input a message and receive a conversational response from the GPT-3.5 language model.
 
